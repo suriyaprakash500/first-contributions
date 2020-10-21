@@ -16,6 +16,7 @@
 - [Framorac Is Here](https://github.com/framorac)
 - Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
+- suriyaprakash500(https://github.com/suriyaprakash500)
 - Yedukrishna K R
   [Filza zarin](https://github.com/Filzazarin)
 - [Jasmine Moua](https://github.com/mouajas)
